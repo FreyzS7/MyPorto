@@ -9,7 +9,7 @@
         text: "Years of Experience",
     },
     {
-        num: 4,
+        num: 6,
         text: "Projects Completed",
     },
     {
