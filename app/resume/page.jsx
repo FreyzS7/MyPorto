@@ -8,9 +8,11 @@ import {
   FaNode,
   FaGithub,
   FaFigma,
+  FaPhp,
+  FaBootstrap,
 } from "react-icons/fa";
 
-import { SiTailwindcss, SiNextdotjs, SiLua } from "react-icons/si";
+import { SiTailwindcss, SiNextdotjs, SiLua,SiTypescript, SiExpress, SiVite, SiNetlify, SiVercel, SiPrisma, SiSqlite, SiPostgresql, SiMongodb  } from "react-icons/si";
 
 const about = {
   title: "About Me",
@@ -71,11 +73,22 @@ const skills = {
     { name: "CSS3", icon: <FaCss3 /> },
     { name: "Lua", icon: <SiLua /> },
     { name: "Tailwind", icon: <SiTailwindcss /> },
+    { name: "Bootstrap", icon: <FaBootstrap /> },
     { name: "JavaScript", icon: <FaJs /> },
+    { name: "Php", icon: <FaPhp /> },
+    { name: "TypeScript", icon: <SiTypescript /> },
     { name: "ReactJS", icon: <FaReact /> },
     { name: "NextJS", icon: <SiNextdotjs /> },
     { name: "NodeJS", icon: <FaNode /> },
+    { name: "Express", icon: <SiExpress /> },
+    { name: "Prisma", icon: <SiPrisma /> },
+    { name: "Sqlite  ", icon: <SiSqlite /> },
+    { name: "PostgreSQL  ", icon: <SiPostgresql /> },
+    { name: "MongoDB  ", icon: <SiMongodb /> },
     { name: "GitHub", icon: <FaGithub /> },
+    { name: "Vite", icon: <SiVite /> },
+    { name: "Netlify", icon: <SiNetlify /> },
+    { name: "Vercel", icon: <SiVercel /> },
     { name: "Figma", icon: <FaFigma /> },
   ],
 };
