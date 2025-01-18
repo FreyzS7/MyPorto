@@ -5,21 +5,21 @@
 
  const stats = [
     {
-        num: 2,
+        num: 5,
         text: "Years of Experience",
     },
     {
-        num: 6,
+        num: 16,
         text: "Projects Completed",
     },
     {
-        num: 55,
+        num: 155,
         text: "Happy Clients",
-    },
-    {
-        num: 300,
-        text: "Code Commits",
-    },
+     },
+    // {
+    //     num: 300,
+    //     text: "Code Commits",
+    // },
  ]
 const Stats = () => {
   return (
