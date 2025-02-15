@@ -31,7 +31,7 @@ const Photo = () => {
           }}
           className="w-[280px] h-[280px] xl:w-[400px] xl:h-[400px] mix-blend-lighten relative z-10"
         >
-          <Image src="/assets/photo.png" priority quality={100} alt="Abdul Azis" fill className="object-contain" />
+          {/* <Image src="/assets/photo.png" priority quality={100} alt="Abdul Azis" fill className="object-contain" /> */}
         </motion.div>
 
         {/* Layered Ring Animation */}
