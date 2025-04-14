@@ -22,13 +22,7 @@ const services = [
     title: "Roblox Game Development",
     description: "Developing immersive experiences for the Roblox platform.",
     href: "/services",
-  },
-  {
-    num: "04",
-    title: "Logo Design",
-    description: "Crafting memorable and meaningful logos that define your brand.",
-    href: "/services",
-  },
+  }
 ];
 
 const Page = () => {
